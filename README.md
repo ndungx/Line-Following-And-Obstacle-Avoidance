@@ -1,6 +1,6 @@
 # IOT102
 ### Line Follower And Obstacle Avoidance Arduino Project
-* Requirement for Line Follower And Obstacle Avoidance (remove Ultrasonic sensor for Line Follower:  
+* Requirement for Line Follower And Obstacle Avoidance (remove Ultrasonic sensor for Line Follower):  
 	- [x] x1 Arduino Uno R3/ Arduino Uno SMD R3/ Arduino Nano  
 	- [x] x1 9V Battery (or x2 Power Cell 18650 2000mAh) (or at least x4 Duracell AA 1.5V)  
 	- [x] x1 9V Battery Clip (or Battery Box 18650 2 Cell (have switch))  
