@@ -42,7 +42,6 @@ void loop(){
 frontdist = data();
 Serial.println(frontdist); 
 
-//if (setdist <= 5){stop();}
 
 if(frontdist>setdist){
 if ((digitalRead(L_S) == 1)&&(digitalRead(R_S) == 1)){forword();}
