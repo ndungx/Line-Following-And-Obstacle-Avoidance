@@ -4,7 +4,7 @@ int motor_r1 = 10;
 int motor_l2 = 5;
 int motor_l1 = 6;
 
-int speed = 250;
+int speed = 200;
 
 int L_S = A0; //sincer L
 int R_S = A1; //sincer R
