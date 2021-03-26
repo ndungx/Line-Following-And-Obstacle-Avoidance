@@ -2,11 +2,11 @@
 #define trigpin A5 // Trigger pin
 
 
-int motor_r2 = 9;
-int motor_r1 = 10;
+int motor_r2 = 9; //motor right 2
+int motor_r1 = 10; //motor right 1
 
-int motor_l2 = 5;
-int motor_l1 = 6;
+int motor_l2 = 5; //motor left 2
+int motor_l1 = 6; //motor left 1
 
 
 int speed = 200;
@@ -16,8 +16,8 @@ long duration;
 
 int setdist= 15;
 
-int L_S = A0; //sincer L
-int R_S = A1; //sincer R
+int L_S = A0; //left sensor
+int R_S = A1; //right sensor
 
 
 void setup(){
@@ -44,21 +44,19 @@ Serial.println(frontdist);
 
 
 if(frontdist>setdist){
-if ((digitalRead(L_S) == 1)&&(digitalRead(R_S) == 1)){forword();}
+if ((digitalRead(L_S) == 1)&&(digitalRead(R_S) == 1)){forward();}
 if ((digitalRead(L_S) == 1)&&(digitalRead(R_S) == 0)){turnRight();}
 if ((digitalRead(L_S) == 0)&&(digitalRead(R_S) == 1)){turnLeft();}
 if ((digitalRead(L_S) == 0)&&(digitalRead(R_S) == 0)){stop();}
 
 }else{
-//backward();
-//delay(500);
 turnLeft();
 delay(300);
 forword();
 delay(800);
 turnRight();  
 delay(300);
-forword();
+forward();
 delay(800);
 turnRight();
 delay(300);
@@ -82,7 +80,7 @@ void stop(){
  analogWrite(motor_r2, 0);  
 }
 
-void forword(){
+void forward(){
  analogWrite(motor_l1, speed);
  analogWrite(motor_l2, 0);
  analogWrite(motor_r1, 0);
