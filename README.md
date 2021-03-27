@@ -1,5 +1,5 @@
 # IOT102
-### Line Follower And Obstacle Avoidance Arduino Project
+### Simple Line Follower And Obstacle Avoidance Arduino Project
 * Requirement for Line Follower And Obstacle Avoidance (remove Ultrasonic sensor for Line Follower):  
 	- [x] x1 Arduino Uno R3/ Arduino Uno SMD R3/ Arduino Nano  
 	- [x] x2 Infrared Sensor (x3 ~ x5 for more accurate when tracking line and get back when move out from the track)  
