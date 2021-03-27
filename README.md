@@ -7,7 +7,7 @@
 	- [x] x1 9V Battery Clip (or Battery Box 18650 2 Cell (have switch))  (or Battery Box for AA Battery 4 Cell)  
 	- [x] x1 Ultrasonic Sensor HC-SR04  
 	- [x] x1 Motor Driver DC L298N  
-	- [ ] x1 Sole for Ultra Sonic Sensor HC-SR04 (or you can glue sensor to robot)  
+	- [ ] x1 Holder for Ultra Sonic Sensor HC-SR04 (or you can glue sensor to robot)  
 	- [ ] x1 Servo SG90 (for calculate the safest path to avoid obstacle) (optinal)  
 	- [x] ~20-30 male-male jumper wires  
 	- [x] ~20-30 male-female jumper wires  
