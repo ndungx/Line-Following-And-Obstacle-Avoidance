@@ -16,6 +16,6 @@
 	- [x] x2 motor DC motor 12V  
 	- [x] x2 wheel  
 ## Line Follower
-![Line Following](https://github.com/ndungx/Line-Follower-And-Obstacle-Avoidance/blob/main/Line%20Follower.png)
+![Line Following](https://github.com/ndungx/Line-Following-And-Obstacle-Avoidance/blob/main/Line%20Following.png)
 ## Line Follower and Obstacle Avoidance
-![Line Following and Obstacle Avoidance](https://github.com/ndungx/Line-Follower-And-Obstacle-Avoidance/blob/main/Line%20Follower%20And%20hc%20sr04.png)
+![Line Following and Obstacle Avoidance](https://github.com/ndungx/Line-Following-And-Obstacle-Avoidance/blob/main/Line%20Following%20And%20Obstacle%20Avoidance.png)
