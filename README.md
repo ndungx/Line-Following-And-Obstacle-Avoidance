@@ -11,11 +11,11 @@
 	- [ ] x1 Servo SG90 (for calculate the safest path to avoid obstacle) (optinal)  
 	- [x] ~20-30 male-male jumper wires  
 	- [x] ~20-30 male-female jumper wires  
-	- [x] x1 switch (if you don't buy a battery box have switch)  
-	- [ ] x1 chassis (or DIY)  
-	- [x] x2 motor DC motor 12V  
-	- [x] x2 wheel  
-## Line Follower
+	- [x] x1 Switch (if you don't buy a battery box have switch)  
+	- [ ] x1 Chassis (or DIY)  
+	- [x] x2 Motor DC motor 12V  
+	- [x] x2 Wheel  
+## Line Following
 ![Line Following](https://github.com/ndungx/Line-Following-And-Obstacle-Avoidance/blob/main/Line%20Following.png)
-## Line Follower and Obstacle Avoidance
+## Line Following and Obstacle Avoidance
 ![Line Following and Obstacle Avoidance](https://github.com/ndungx/Line-Following-And-Obstacle-Avoidance/blob/main/Line%20Following%20And%20Obstacle%20Avoidance.png)
